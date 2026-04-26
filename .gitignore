@@ -61,3 +61,8 @@ publish/
 *.bak
 *.swp
 *~
+
+# Node.js
+**/node_modules/
+site/docs/.vitepress/cache/
+site/docs/.vitepress/dist/
